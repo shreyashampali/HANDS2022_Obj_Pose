@@ -20,7 +20,10 @@ in this repo:
 2. Download the dataset to `dataset_dir`.
 3. Download the YCB object models by clicking on `The YCB-Video 3D Models` [here](https://rse-lab.cs.washington.edu/projects/posecnn/]). Save
 the models in `object_models_dir`
-4. Install the required modules from the `requirements.txt` file in your virtual environment
+4. Install the required modules:
+```
+pip install open3d matplotlib argparse opencv-python torch smplx pillow
+```
 
 ## Dataset Visualization
 
