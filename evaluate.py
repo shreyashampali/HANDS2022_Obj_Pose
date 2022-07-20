@@ -199,7 +199,7 @@ def main(gt_path, pred_path, output_dir, pred_file_name=None, set_name=None):
     ind_obj_mssd_dict = {}
     for id in all_obj_mssd_dict.keys():
         ind_obj_mssd_dict[id] = np.mean(np.array(all_obj_mssd_dict[id]))*100
-        print('%s MSSD (cnt %d) = %f cms' % (
+        print('%s MSSD = %f cms' % (
             id, len(all_obj_mssd_dict[id]), ind_obj_mssd_dict[id]))
         all_obj_mssd_list = all_obj_mssd_list + all_obj_mssd_dict[id]
 
