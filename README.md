@@ -1,4 +1,4 @@
-#HANDS22 Challenge Task 2: RGB-Based 3D Interacting Object Pose Estimation
+# HANDS22 Challenge Task 2: RGB-Based 3D Interacting Object Pose Estimation
 This repository contains scripts relating to the Task 2 of [HANDS2022 challenge](https://sites.google.com/view/hands2022/call-for-extended-abstract?authuser=0) organized
 at ECCV'22. 
 
