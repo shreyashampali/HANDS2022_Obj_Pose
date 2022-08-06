@@ -1,5 +1,5 @@
-# HANDS22 Challenge Task 2: RGB-Based 3D Interacting Object Pose Estimation
-This repository contains scripts relating to the Task 2 of [HANDS2022 challenge](https://sites.google.com/view/hands2022/call-for-extended-abstract?authuser=0) organized
+# HANDS22 Challenge Task 1: Hand-held Object Pose Estimation
+This repository contains scripts relating to the Task 1 of [HANDS2022 challenge](https://sites.google.com/view/hands2022/call-for-extended-abstract?authuser=0) organized
 at ECCV'22. 
 
 The goal of this task is to estimate the pose of hand-held objects from a single RGB image.
